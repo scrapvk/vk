@@ -4,3 +4,4 @@
 4) FIlter out same posts.
 5) Calculate how many posts has user done.
 6) Checking whether user has webiste and if site contains medical keywords.
+7) Change timeout values in vk packages
